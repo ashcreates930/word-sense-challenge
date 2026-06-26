@@ -1,0 +1,275 @@
+{
+  "learners": [
+    {
+      "id": "l-001",
+      "name": "Marcus Okonkwo",
+      "team": "ELA Department",
+      "currentLevel": "Leader",
+      "startDate": "2024-09-05",
+      "notes": "Early adopter. First staff member to ship a Claude-assisted unit plan used across three sections.",
+      "competencies": [
+        { "id": "exp-acc-1", "name": "Can log into Claude and navigate to the chat interface", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-acc-2", "name": "Understands what an AI assistant is and what it can do", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-fp-1", "name": "Has written and submitted at least one prompt independently", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-fp-2", "name": "Can describe the difference between a vague and specific prompt", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-gt-1", "name": "Has completed one guided AI-assisted task with support", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-gt-2", "name": "Can articulate one concrete way AI could help their work", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "demonstrated" },
+        { "id": "prac-du-1", "name": "Uses Claude unprompted at least 3× per week in real work tasks", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-du-2", "name": "Has replaced at least one manual workflow with an AI-assisted one", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-tr-1", "name": "Can name all five elements of TRACE (Task, Role, Audience, Context, Expectation)", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-tr-2", "name": "Consistently structures prompts using the TRACE framework", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-tr-3", "name": "Can show a before/after example of a TRACE-improved prompt", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-sc-1", "name": "Applies the Four D's: Delegation, Description, Discernment, Diligence", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-sc-2", "name": "Can identify and correct a low-quality AI output without coaching", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-sc-3", "name": "Verifies AI outputs before using them in real deliverables", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "lead-pb-1", "name": "Has documented at least one reusable prompt template or workflow", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "demonstrated" },
+        { "id": "lead-pb-2", "name": "Can adapt existing patterns to new use cases independently", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "demonstrated" },
+        { "id": "lead-pc-1", "name": "Has coached at least one colleague through a specific AI task", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "demonstrated" },
+        { "id": "lead-pc-2", "name": "Can facilitate a brief AI use-case discussion with their team", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "demonstrated" },
+        { "id": "lead-sa-1", "name": "Has shipped an AI-assisted artifact that at least one other person has used", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "demonstrated" },
+        { "id": "lead-sa-2", "name": "Can describe the impact or time savings from their AI-assisted work", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "demonstrated" }
+      ],
+      "usageEvents": [
+        { "date": "2024-09-10", "type": "session_attended", "note": "Attended AI intro workshop" },
+        { "date": "2024-09-18", "type": "tool_used", "note": "Used Claude to draft differentiated lesson plan" },
+        { "date": "2024-10-02", "type": "artifact_shipped", "note": "Shipped unit plan template to ELA team" },
+        { "date": "2024-10-15", "type": "coached", "note": "Paired with Priya on TRACE framework" },
+        { "date": "2024-11-01", "type": "tool_used", "note": "Built reusable rubric generator prompt" }
+      ],
+      "interventions": [
+        { "date": "2024-09-20", "action": "Invite to present AI workflow at next staff meeting", "owner": "Ashley Hodges", "status": "done" }
+      ]
+    },
+    {
+      "id": "l-002",
+      "name": "Priya Nair",
+      "team": "ELA Department",
+      "currentLevel": "Practitioner",
+      "startDate": "2024-09-05",
+      "notes": "Strong writer; initially skeptical of AI. Warmed up after seeing Marcus's unit plan.",
+      "competencies": [
+        { "id": "exp-acc-1", "name": "Can log into Claude and navigate to the chat interface", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-acc-2", "name": "Understands what an AI assistant is and what it can do", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-fp-1", "name": "Has written and submitted at least one prompt independently", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-fp-2", "name": "Can describe the difference between a vague and specific prompt", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-gt-1", "name": "Has completed one guided AI-assisted task with support", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-gt-2", "name": "Can articulate one concrete way AI could help their work", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "demonstrated" },
+        { "id": "prac-du-1", "name": "Uses Claude unprompted at least 3× per week in real work tasks", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-du-2", "name": "Has replaced at least one manual workflow with an AI-assisted one", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "in_progress" },
+        { "id": "prac-tr-1", "name": "Can name all five elements of TRACE (Task, Role, Audience, Context, Expectation)", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-tr-2", "name": "Consistently structures prompts using the TRACE framework", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "in_progress" },
+        { "id": "prac-tr-3", "name": "Can show a before/after example of a TRACE-improved prompt", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-sc-1", "name": "Applies the Four D's: Delegation, Description, Discernment, Diligence", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-sc-2", "name": "Can identify and correct a low-quality AI output without coaching", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "in_progress" },
+        { "id": "prac-sc-3", "name": "Verifies AI outputs before using them in real deliverables", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "lead-pb-1", "name": "Has documented at least one reusable prompt template or workflow", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pb-2", "name": "Can adapt existing patterns to new use cases independently", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pc-1", "name": "Has coached at least one colleague through a specific AI task", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pc-2", "name": "Can facilitate a brief AI use-case discussion with their team", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "not_started" },
+        { "id": "lead-sa-1", "name": "Has shipped an AI-assisted artifact that at least one other person has used", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "not_started" },
+        { "id": "lead-sa-2", "name": "Can describe the impact or time savings from their AI-assisted work", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "not_started" }
+      ],
+      "usageEvents": [
+        { "date": "2024-09-10", "type": "session_attended", "note": "Attended AI intro workshop" },
+        { "date": "2024-10-05", "type": "coached", "note": "Marcus walked through TRACE framework" },
+        { "date": "2024-10-22", "type": "tool_used", "note": "Used Claude for parent communication drafts" },
+        { "date": "2024-11-08", "type": "tool_used", "note": "Built first TRACE-structured prompt for essay feedback" }
+      ],
+      "interventions": [
+        { "date": "2024-11-10", "action": "Schedule 30-min session: build a before/after TRACE prompt example together", "owner": "Ashley Hodges", "status": "open" }
+      ]
+    },
+    {
+      "id": "l-003",
+      "name": "Jerome Castillo",
+      "team": "Front Office",
+      "currentLevel": "Explorer",
+      "startDate": "2024-10-01",
+      "notes": "Completed intro session but hasn't logged back in since. Needs a concrete use case tied to his daily work.",
+      "competencies": [
+        { "id": "exp-acc-1", "name": "Can log into Claude and navigate to the chat interface", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-acc-2", "name": "Understands what an AI assistant is and what it can do", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "in_progress" },
+        { "id": "exp-fp-1", "name": "Has written and submitted at least one prompt independently", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-fp-2", "name": "Can describe the difference between a vague and specific prompt", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "not_started" },
+        { "id": "exp-gt-1", "name": "Has completed one guided AI-assisted task with support", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "not_started" },
+        { "id": "exp-gt-2", "name": "Can articulate one concrete way AI could help their work", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "not_started" },
+        { "id": "prac-du-1", "name": "Uses Claude unprompted at least 3× per week in real work tasks", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-du-2", "name": "Has replaced at least one manual workflow with an AI-assisted one", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-tr-1", "name": "Can name all five elements of TRACE (Task, Role, Audience, Context, Expectation)", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-tr-2", "name": "Consistently structures prompts using the TRACE framework", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-tr-3", "name": "Can show a before/after example of a TRACE-improved prompt", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-sc-1", "name": "Applies the Four D's: Delegation, Description, Discernment, Diligence", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-sc-2", "name": "Can identify and correct a low-quality AI output without coaching", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-sc-3", "name": "Verifies AI outputs before using them in real deliverables", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "not_started" },
+        { "id": "lead-pb-1", "name": "Has documented at least one reusable prompt template or workflow", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pb-2", "name": "Can adapt existing patterns to new use cases independently", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pc-1", "name": "Has coached at least one colleague through a specific AI task", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pc-2", "name": "Can facilitate a brief AI use-case discussion with their team", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "not_started" },
+        { "id": "lead-sa-1", "name": "Has shipped an AI-assisted artifact that at least one other person has used", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "not_started" },
+        { "id": "lead-sa-2", "name": "Can describe the impact or time savings from their AI-assisted work", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "not_started" }
+      ],
+      "usageEvents": [
+        { "date": "2024-10-03", "type": "session_attended", "note": "Attended intro workshop" },
+        { "date": "2024-10-03", "type": "tool_used", "note": "Logged in during session; wrote one prompt" }
+      ],
+      "interventions": [
+        { "date": "2024-11-05", "action": "Send Jerome 3 specific front-office prompt templates to try this week", "owner": "Ashley Hodges", "status": "open" }
+      ]
+    },
+    {
+      "id": "l-004",
+      "name": "Diane Patel",
+      "team": "Leadership",
+      "currentLevel": "Practitioner",
+      "startDate": "2024-09-15",
+      "notes": "Uses Claude for strategic planning and communication drafts. Ready to build a reusable template library for the leadership team.",
+      "competencies": [
+        { "id": "exp-acc-1", "name": "Can log into Claude and navigate to the chat interface", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-acc-2", "name": "Understands what an AI assistant is and what it can do", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-fp-1", "name": "Has written and submitted at least one prompt independently", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-fp-2", "name": "Can describe the difference between a vague and specific prompt", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-gt-1", "name": "Has completed one guided AI-assisted task with support", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-gt-2", "name": "Can articulate one concrete way AI could help their work", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "demonstrated" },
+        { "id": "prac-du-1", "name": "Uses Claude unprompted at least 3× per week in real work tasks", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-du-2", "name": "Has replaced at least one manual workflow with an AI-assisted one", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-tr-1", "name": "Can name all five elements of TRACE (Task, Role, Audience, Context, Expectation)", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-tr-2", "name": "Consistently structures prompts using the TRACE framework", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-tr-3", "name": "Can show a before/after example of a TRACE-improved prompt", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-sc-1", "name": "Applies the Four D's: Delegation, Description, Discernment, Diligence", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-sc-2", "name": "Can identify and correct a low-quality AI output without coaching", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-sc-3", "name": "Verifies AI outputs before using them in real deliverables", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "lead-pb-1", "name": "Has documented at least one reusable prompt template or workflow", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "in_progress" },
+        { "id": "lead-pb-2", "name": "Can adapt existing patterns to new use cases independently", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pc-1", "name": "Has coached at least one colleague through a specific AI task", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pc-2", "name": "Can facilitate a brief AI use-case discussion with their team", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "not_started" },
+        { "id": "lead-sa-1", "name": "Has shipped an AI-assisted artifact that at least one other person has used", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "not_started" },
+        { "id": "lead-sa-2", "name": "Can describe the impact or time savings from their AI-assisted work", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "not_started" }
+      ],
+      "usageEvents": [
+        { "date": "2024-09-17", "type": "session_attended", "note": "Leadership AI onboarding" },
+        { "date": "2024-09-25", "type": "tool_used", "note": "Used Claude for board presentation outline" },
+        { "date": "2024-10-10", "type": "tool_used", "note": "Drafted staff communication using TRACE" },
+        { "date": "2024-10-28", "type": "tool_used", "note": "Strategic planning doc generated with AI support" }
+      ],
+      "interventions": [
+        { "date": "2024-11-08", "action": "Challenge: document one leadership prompt template and share with the team by end of month", "owner": "Ashley Hodges", "status": "open" }
+      ]
+    },
+    {
+      "id": "l-005",
+      "name": "Tasha Williams",
+      "team": "Front Office",
+      "currentLevel": "Explorer",
+      "startDate": "2024-10-15",
+      "notes": "Brand new to AI. Enthusiastic but overwhelmed. Needs very small, low-stakes starting tasks.",
+      "competencies": [
+        { "id": "exp-acc-1", "name": "Can log into Claude and navigate to the chat interface", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-acc-2", "name": "Understands what an AI assistant is and what it can do", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "in_progress" },
+        { "id": "exp-fp-1", "name": "Has written and submitted at least one prompt independently", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "not_started" },
+        { "id": "exp-fp-2", "name": "Can describe the difference between a vague and specific prompt", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "not_started" },
+        { "id": "exp-gt-1", "name": "Has completed one guided AI-assisted task with support", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "not_started" },
+        { "id": "exp-gt-2", "name": "Can articulate one concrete way AI could help their work", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "not_started" },
+        { "id": "prac-du-1", "name": "Uses Claude unprompted at least 3× per week in real work tasks", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-du-2", "name": "Has replaced at least one manual workflow with an AI-assisted one", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-tr-1", "name": "Can name all five elements of TRACE (Task, Role, Audience, Context, Expectation)", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-tr-2", "name": "Consistently structures prompts using the TRACE framework", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-tr-3", "name": "Can show a before/after example of a TRACE-improved prompt", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-sc-1", "name": "Applies the Four D's: Delegation, Description, Discernment, Diligence", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-sc-2", "name": "Can identify and correct a low-quality AI output without coaching", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-sc-3", "name": "Verifies AI outputs before using them in real deliverables", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "not_started" },
+        { "id": "lead-pb-1", "name": "Has documented at least one reusable prompt template or workflow", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pb-2", "name": "Can adapt existing patterns to new use cases independently", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pc-1", "name": "Has coached at least one colleague through a specific AI task", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pc-2", "name": "Can facilitate a brief AI use-case discussion with their team", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "not_started" },
+        { "id": "lead-sa-1", "name": "Has shipped an AI-assisted artifact that at least one other person has used", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "not_started" },
+        { "id": "lead-sa-2", "name": "Can describe the impact or time savings from their AI-assisted work", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "not_started" }
+      ],
+      "usageEvents": [
+        { "date": "2024-10-16", "type": "session_attended", "note": "Intro workshop — very engaged" }
+      ],
+      "interventions": [
+        { "date": "2024-10-20", "action": "Send Tasha one simple prompt to try: 'Ask Claude to help you write a short voicemail script for a parent callback'", "owner": "Ashley Hodges", "status": "open" }
+      ]
+    },
+    {
+      "id": "l-006",
+      "name": "Reginald Tatum",
+      "team": "Leadership",
+      "currentLevel": "Leader",
+      "startDate": "2024-09-01",
+      "notes": "Principal sponsor of the AI initiative. Uses Claude daily for instructional leadership work. Active champion.",
+      "competencies": [
+        { "id": "exp-acc-1", "name": "Can log into Claude and navigate to the chat interface", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-acc-2", "name": "Understands what an AI assistant is and what it can do", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-fp-1", "name": "Has written and submitted at least one prompt independently", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-fp-2", "name": "Can describe the difference between a vague and specific prompt", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-gt-1", "name": "Has completed one guided AI-assisted task with support", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-gt-2", "name": "Can articulate one concrete way AI could help their work", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "demonstrated" },
+        { "id": "prac-du-1", "name": "Uses Claude unprompted at least 3× per week in real work tasks", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-du-2", "name": "Has replaced at least one manual workflow with an AI-assisted one", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-tr-1", "name": "Can name all five elements of TRACE (Task, Role, Audience, Context, Expectation)", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-tr-2", "name": "Consistently structures prompts using the TRACE framework", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-tr-3", "name": "Can show a before/after example of a TRACE-improved prompt", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-sc-1", "name": "Applies the Four D's: Delegation, Description, Discernment, Diligence", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-sc-2", "name": "Can identify and correct a low-quality AI output without coaching", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "prac-sc-3", "name": "Verifies AI outputs before using them in real deliverables", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "demonstrated" },
+        { "id": "lead-pb-1", "name": "Has documented at least one reusable prompt template or workflow", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "demonstrated" },
+        { "id": "lead-pb-2", "name": "Can adapt existing patterns to new use cases independently", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "demonstrated" },
+        { "id": "lead-pc-1", "name": "Has coached at least one colleague through a specific AI task", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "demonstrated" },
+        { "id": "lead-pc-2", "name": "Can facilitate a brief AI use-case discussion with their team", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "demonstrated" },
+        { "id": "lead-sa-1", "name": "Has shipped an AI-assisted artifact that at least one other person has used", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "demonstrated" },
+        { "id": "lead-sa-2", "name": "Can describe the impact or time savings from their AI-assisted work", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "demonstrated" }
+      ],
+      "usageEvents": [
+        { "date": "2024-09-05", "type": "session_attended", "note": "Leadership kickoff" },
+        { "date": "2024-09-12", "type": "tool_used", "note": "Used Claude for walkthrough debrief notes" },
+        { "date": "2024-09-20", "type": "coached", "note": "Modeled AI use for ELA team at staff meeting" },
+        { "date": "2024-10-01", "type": "artifact_shipped", "note": "Shared AI observation note template school-wide" }
+      ],
+      "interventions": []
+    },
+    {
+      "id": "l-007",
+      "name": "Sofia Mendez",
+      "team": "ELA Department",
+      "currentLevel": "Explorer",
+      "startDate": "2024-11-01",
+      "notes": "Just onboarded. Completed first session. Next step is to get her to write a prompt tied to an actual upcoming lesson.",
+      "competencies": [
+        { "id": "exp-acc-1", "name": "Can log into Claude and navigate to the chat interface", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "demonstrated" },
+        { "id": "exp-acc-2", "name": "Understands what an AI assistant is and what it can do", "dimension": "Access", "dimensionId": "access", "level": "Explorer", "status": "in_progress" },
+        { "id": "exp-fp-1", "name": "Has written and submitted at least one prompt independently", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "not_started" },
+        { "id": "exp-fp-2", "name": "Can describe the difference between a vague and specific prompt", "dimension": "First Prompt", "dimensionId": "first_prompt", "level": "Explorer", "status": "not_started" },
+        { "id": "exp-gt-1", "name": "Has completed one guided AI-assisted task with support", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "not_started" },
+        { "id": "exp-gt-2", "name": "Can articulate one concrete way AI could help their work", "dimension": "Guided Task", "dimensionId": "guided_task", "level": "Explorer", "status": "not_started" },
+        { "id": "prac-du-1", "name": "Uses Claude unprompted at least 3× per week in real work tasks", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-du-2", "name": "Has replaced at least one manual workflow with an AI-assisted one", "dimension": "Daily Use", "dimensionId": "daily_use", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-tr-1", "name": "Can name all five elements of TRACE (Task, Role, Audience, Context, Expectation)", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-tr-2", "name": "Consistently structures prompts using the TRACE framework", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-tr-3", "name": "Can show a before/after example of a TRACE-improved prompt", "dimension": "TRACE Applied", "dimensionId": "trace_applied", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-sc-1", "name": "Applies the Four D's: Delegation, Description, Discernment, Diligence", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-sc-2", "name": "Can identify and correct a low-quality AI output without coaching", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "not_started" },
+        { "id": "prac-sc-3", "name": "Verifies AI outputs before using them in real deliverables", "dimension": "Self-Correction", "dimensionId": "self_correction", "level": "Practitioner", "status": "not_started" },
+        { "id": "lead-pb-1", "name": "Has documented at least one reusable prompt template or workflow", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pb-2", "name": "Can adapt existing patterns to new use cases independently", "dimension": "Pattern Building", "dimensionId": "pattern_building", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pc-1", "name": "Has coached at least one colleague through a specific AI task", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "not_started" },
+        { "id": "lead-pc-2", "name": "Can facilitate a brief AI use-case discussion with their team", "dimension": "Peer Coaching", "dimensionId": "peer_coaching", "level": "Leader", "status": "not_started" },
+        { "id": "lead-sa-1", "name": "Has shipped an AI-assisted artifact that at least one other person has used", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "not_started" },
+        { "id": "lead-sa-2", "name": "Can describe the impact or time savings from their AI-assisted work", "dimension": "Shipped Adoption", "dimensionId": "shipped_adoption", "level": "Leader", "status": "not_started" }
+      ],
+      "usageEvents": [
+        { "date": "2024-11-01", "type": "session_attended", "note": "Intro workshop — completed access check" }
+      ],
+      "interventions": [
+        { "date": "2024-11-05", "action": "Send Sofia a lesson-specific prompt starter: 'Ask Claude to help you design 3 discussion questions for [your next unit]'", "owner": "Ashley Hodges", "status": "open" }
+      ]
+    }
+  ],
+  "trendData": [
+    { "date": "2024-09-15", "practitionerOrAbove": 1 },
+    { "date": "2024-10-01", "practitionerOrAbove": 2 },
+    { "date": "2024-10-15", "practitionerOrAbove": 3 },
+    { "date": "2024-11-01", "practitionerOrAbove": 4 },
+    { "date": "2024-11-15", "practitionerOrAbove": 4 }
+  ]
+}
