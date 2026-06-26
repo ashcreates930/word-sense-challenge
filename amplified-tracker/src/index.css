@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background-color: #F5EFE0;
+  color: #260F24;
+  margin: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+@layer components {
+  .stat-card {
+    @apply bg-white rounded-xl p-6 shadow-sm border border-cream-dark;
+  }
+  .btn-primary {
+    @apply bg-gold text-white px-4 py-2 rounded-lg font-medium hover:bg-gold-dark transition-colors duration-200 cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed text-sm;
+  }
+  .btn-secondary {
+    @apply bg-plum text-cream px-4 py-2 rounded-lg font-medium hover:bg-plum-light transition-colors duration-200 cursor-pointer text-sm;
+  }
+  .btn-ghost {
+    @apply text-plum px-3 py-1.5 rounded-lg text-sm hover:bg-cream-dark transition-colors duration-200 cursor-pointer;
+  }
+}
+
+@media print {
+  .no-print { display: none !important; }
+  nav { display: none !important; }
+  body { background: white !important; }
+}
